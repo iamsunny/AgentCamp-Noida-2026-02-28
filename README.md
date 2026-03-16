@@ -1,5 +1,7 @@
 # AgentCamp Noida — 28 February 2026
 
+![AgentCamp Noida](agentcamp-noida-banner.png)
+
 Session resources from **AgentCamp Noida**, part of the global AgentCamp bootcamp series by the [Global AI Community](https://globalai.community).
 
 **Date:** 28 February 2026
